@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family:Overpass;
+}
+main{
+    width: 100%;
+}
+/* a:active{
+color:none!important;
+} */
+/* Link{
+    text-decoration: none!important;
+    color: none!important;
+} */

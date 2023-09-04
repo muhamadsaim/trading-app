@@ -1,0 +1,11 @@
+.logDiv p{
+    cursor: pointer!important;
+}
+.logoutDiv{
+    border-top:1px solid rgb(219, 219, 219);
+    cursor:pointer!important;
+    color: red;
+}
+.logoutDiv:hover{
+    color: rgb(233, 72, 72);
+}
